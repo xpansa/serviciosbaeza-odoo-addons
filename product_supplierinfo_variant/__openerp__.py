@@ -17,7 +17,7 @@
 ##############################################################################
 {
     'name': 'Product supplier info per variant',
-    'version': '0.8',
+    "version": "9.0.1.0.0",
     'author': 'Serv. Tecnol. Avanzados - Pedro M. Baeza',
     'category': 'Product Management',
     'depends': [
